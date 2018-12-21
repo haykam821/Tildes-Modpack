@@ -181,7 +181,8 @@
 		"type": "forge"
 	}],
 	"pack": {
-		"name": "Tildes"
+		"name": "Tildes",
+		"format": 1
 	},
 	"servers": [{
 		"ip": "149.56.97.143",
