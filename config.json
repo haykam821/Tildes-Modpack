@@ -1,190 +1,190 @@
 {
+	"mods": [{
+		"fileID": 2640458,
+		"name": "Just Enough Items",
+		"projectID": 238222,
+		"type": "forge"
+	}, {
+		"fileID": 2640111,
+		"name": "JourneyMap",
+		"projectID": 32274,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "ConnectedTexturesMod",
+		"projectID": 267602,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Chisel",
+		"projectID": 235279,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Chameleon",
+		"projectID": 230497,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Storage Drawers",
+		"projectID": 223852,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Iron Chests",
+		"projectID": 228756,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Chisels & Bits",
+		"projectID": 231095,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Inventory Tweaks",
+		"projectID": 223094,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "McJtyLib",
+		"projectID": 233105,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "RFTools",
+		"projectID": 224641,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "AppleSkin",
+		"projectID": 248787,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Actually Additions",
+		"projectID": 228404,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Iron Backpacks",
+		"projectID": 227049,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "ReAuth",
+		"projectID": 237701,
+		"type": "forge"
+	}, {
+		"fileID": "2647237",
+		"name": "WanionLib",
+		"projectID": wanionlib,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "UniDict",
+		"projectID": 244258,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Clumps",
+		"projectID": 256717,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Flat Colored Blocks",
+		"projectID": 238590,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Hwyla",
+		"projectID": 253449,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "AutoRegLib",
+		"projectID": 250363,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Quark",
+		"projectID": 243121,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Compact Machines",
+		"projectID": 224218,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Baubles",
+		"projectID": 227083,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Actually Baubles",
+		"projectID": 273430,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Neat",
+		"projectID": 238372,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Ceramics",
+		"projectID": 250617,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Fast Leaf Decay",
+		"projectID": 230976,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Just Enough Resources (JER)",
+		"projectID": 240630,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "CXLibrary",
+		"projectID": 244023,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "More Furnaces",
+		"projectID": 78320,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Furnace on a Stick",
+		"projectID": 277056,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "No Recipe Book",
+		"projectID": 284904,
+		"type": "forge"
+	}, {
+		"fileID": "2639993",
+		"name": "Carry On",
+		"projectID": carry - on,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Inventory Pets",
+		"projectID": 229380,
+		"type": "forge"
+	}, {
+		"fileID": "latest",
+		"name": "Wolf Armor and Storage",
+		"projectID": 253689,
+		"type": "forge"
+	}],
 	"pack": {
 		"name": "Tildes"
 	},
 	"servers": [{
 		"ip": "149.56.97.143",
 		"name": "~ Tildes ~"
-	}],
-	"mods": [{
-		"name": "Just Enough Items",
-		"type": "forge",
-		"projectID": 238222,
-		"fileID": 2640458
-	}, {
-		"name": "JourneyMap",
-		"type": "forge",
-		"projectID": 32274,
-		"fileID": 2640111
-	}, {
-		"type": "forge",
-		"projectID": "267602",
-		"fileID": "latest",
-		"name": "ConnectedTexturesMod (by tterrag1098)"
-	}, {
-		"type": "forge",
-		"projectID": "235279",
-		"fileID": "latest",
-		"name": "Chisel (by tterrag1098)"
-	}, {
-		"type": "forge",
-		"projectID": "230497",
-		"fileID": "latest",
-		"name": "Chameleon (by jaquadro)"
-	}, {
-		"type": "forge",
-		"projectID": "223852",
-		"fileID": "latest",
-		"name": "Storage Drawers (by jaquadro)"
-	}, {
-		"type": "forge",
-		"projectID": "228756",
-		"fileID": "latest",
-		"name": "Iron Chests (by progwml6)"
-	}, {
-		"type": "forge",
-		"projectID": "231095",
-		"fileID": "latest",
-		"name": "Chisels & Bits (by AlgorithmX2)"
-	}, {
-		"type": "forge",
-		"projectID": "223094",
-		"fileID": "latest",
-		"name": "Inventory Tweaks (by Kobata)"
-	}, {
-		"type": "forge",
-		"projectID": "233105",
-		"fileID": "latest",
-		"name": "McJtyLib (by McJty)"
-	}, {
-		"type": "forge",
-		"projectID": "224641",
-		"fileID": "latest",
-		"name": "RFTools (by McJty)"
-	}, {
-		"type": "forge",
-		"projectID": "248787",
-		"fileID": "latest",
-		"name": "AppleSkin (by squeek502)"
-	}, {
-		"type": "forge",
-		"projectID": "228404",
-		"fileID": "latest",
-		"name": "Actually Additions (by Ellpeck)"
-	}, {
-		"type": "forge",
-		"projectID": "227049",
-		"fileID": "latest",
-		"name": "Iron Backpacks"
-	}, {
-		"type": "forge",
-		"projectID": "237701",
-		"fileID": "latest",
-		"name": "ReAuth (by TechnicianLP)"
-	}, {
-		"type": "forge",
-		"projectID": "wanionlib",
-		"fileID": "2647237",
-		"name": "WanionLib"
-	}, {
-		"type": "forge",
-		"projectID": "244258",
-		"fileID": "latest",
-		"name": "UniDict (by WanionCane)"
-	}, {
-		"type": "forge",
-		"projectID": "256717",
-		"fileID": "latest",
-		"name": "Clumps (by jaredlll08)"
-	}, {
-		"type": "forge",
-		"projectID": "238590",
-		"fileID": "latest",
-		"name": "Flat Colored Blocks (by AlgorithmX2)"
-	}, {
-		"type": "forge",
-		"projectID": "253449",
-		"fileID": "latest",
-		"name": "Hwyla (by TehNut)"
-	}, {
-		"type": "forge",
-		"projectID": "250363",
-		"fileID": "latest",
-		"name": "AutoRegLib (by Vazkii)"
-	}, {
-		"type": "forge",
-		"projectID": "243121",
-		"fileID": "latest",
-		"name": "Quark (by Vazkii)"
-	}, {
-		"type": "forge",
-		"projectID": "224218",
-		"fileID": "latest",
-		"name": "Compact Machines (by Davenonymous)"
-	}, {
-		"type": "forge",
-		"projectID": "227083",
-		"fileID": "latest",
-		"name": "Baubles (by azanor)"
-	}, {
-		"type": "forge",
-		"projectID": "273430",
-		"fileID": "latest",
-		"name": "Actually Baubles (by Jacky1356400)"
-	}, {
-		"type": "forge",
-		"projectID": "238372",
-		"fileID": "latest",
-		"name": "Neat (by Vazkii)"
-	}, {
-		"type": "forge",
-		"projectID": "250617",
-		"fileID": "latest",
-		"name": "Ceramics (by KnightMiner)"
-	}, {
-		"type": "forge",
-		"projectID": "230976",
-		"fileID": "latest",
-		"name": "Fast Leaf Decay (by Olafskii)"
-	}, {
-		"type": "forge",
-		"projectID": "240630",
-		"fileID": "latest",
-		"name": "Just Enough Resources (JER) (by Way2muchnoise)"
-	}, {
-		"type": "forge",
-		"projectID": "244023",
-		"fileID": "latest",
-		"name": "CXLibrary (by CubeX2)"
-	}, {
-		"type": "forge",
-		"projectID": "78320",
-		"fileID": "latest",
-		"name": "More Furnaces (by CubeX2)"
-	}, {
-		"type": "forge",
-		"projectID": "277056",
-		"fileID": "latest",
-		"name": "Furnace on a Stick (by murapix)"
-	}, {
-		"type": "forge",
-		"projectID": "284904",
-		"fileID": "latest",
-		"name": "No Recipe Book (by Seneschal_Luwin)"
-	}, {
-		"name": "Carry On",
-		"type": "forge",
-		"projectID": "carry-on",
-		"fileID": "2639993"
-	}, {
-		"type": "forge",
-		"projectID": "229380",
-		"fileID": "latest",
-		"name": "Inventory Pets (by Purplicious_Cow)"
-	}, {
-		"type": "forge",
-		"projectID": "253689",
-		"fileID": "latest",
-		"name": "Wolf Armor and Storage (by CenturionFox)"
 	}]
 }
