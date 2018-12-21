@@ -1,0 +1,126 @@
+{
+	"pack": {
+		"name": "Tildes"
+	},
+	"servers": [{
+		"ip": "149.56.97.143",
+		"name": "~ Tildes ~"
+	}],
+	"mods": [{
+		"name": "Just Enough Items",
+		"type": "forge",
+		"projectID": 238222,
+		"fileID": 2640458
+	}, {
+		"name": "JourneyMap",
+		"type": "forge",
+		"projectID": 32274,
+		"fileID": 2640111
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/267602/files/latest",
+		"name": "ConnectedTexturesMod (by tterrag1098)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/235279/files/latest",
+		"name": "Chisel (by tterrag1098)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/230497/files/latest",
+		"name": "Chameleon (by jaquadro)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/223852/files/latest",
+		"name": "Storage Drawers (by jaquadro)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/228756/files/latest",
+		"name": "Iron Chests (by progwml6)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/231095/files/latest",
+		"name": "Chisels & Bits (by AlgorithmX2)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/223094/files/latest",
+		"name": "Inventory Tweaks (by Kobata)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/233105/files/latest",
+		"name": "McJtyLib (by McJty)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/224641/files/latest",
+		"name": "RFTools (by McJty)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/248787/files/latest",
+		"name": "AppleSkin (by squeek502)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/228404/files/latest",
+		"name": "Actually Additions (by Ellpeck)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/227049/files/latest",
+		"name": "Iron Backpacks"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/237701/files/latest",
+		"name": "ReAuth (by TechnicianLP)"
+	}, {
+		"type": "forge",
+		"projectID": "wanionlib",
+		"fileID": "2647237",
+		"name": "WanionLib"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/244258/files/latest",
+		"name": "UniDict (by WanionCane)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/256717/files/latest",
+		"name": "Clumps (by jaredlll08)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/238590/files/latest",
+		"name": "Flat Colored Blocks (by AlgorithmX2)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/253449/files/latest",
+		"name": "Hwyla (by TehNut)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/250363/files/latest",
+		"name": "AutoRegLib (by Vazkii)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/243121/files/latest",
+		"name": "Quark (by Vazkii)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/224218/files/latest",
+		"name": "Compact Machines (by Davenonymous)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/227083/files/latest",
+		"name": "Baubles (by azanor)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/273430/files/latest",
+		"name": "Actually Baubles (by Jacky1356400)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/238372/files/latest",
+		"name": "Neat (by Vazkii)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/250617/files/latest",
+		"name": "Ceramics (by KnightMiner)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/230976/files/latest",
+		"name": "Fast Leaf Decay (by Olafskii)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/240630/files/latest",
+		"name": "Just Enough Resources (JER) (by Way2muchnoise)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/244023/files/latest",
+		"name": "CXLibrary (by CubeX2)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/78320/files/latest",
+		"name": "More Furnaces (by CubeX2)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/277056/files/latest",
+		"name": "Furnace on a Stick (by murapix)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/284904/files/latest",
+		"name": "No Recipe Book (by Seneschal_Luwin)"
+	}, {
+		"name": "Carry On",
+		"type": "forge",
+		"projectID": "carry-on",
+		"fileID": "2639993"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/229380/files/latest",
+		"name": "Inventory Pets (by Purplicious_Cow)"
+	}, {
+		"url": "https://minecraft.curseforge.com/projects/253689/files/latest",
+		"name": "Wolf Armor and Storage (by CenturionFox)"
+	}]
+}
