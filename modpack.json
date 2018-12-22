@@ -179,6 +179,11 @@
 		"name": "Wolf Armor and Storage",
 		"projectID": 253689,
 		"type": "curseforge"
+	}, {
+		"fileID": 2589773,
+		"name": "More Overlays",
+		"projectID": 243478,
+		"type": "curseforge"
 	}],
 	"pack": {
 		"name": "Tildes",
