@@ -184,6 +184,9 @@
 		"name": "Tildes",
 		"format": 1
 	},
+	"move": {
+		"./config": "./config"
+	},
 	"servers": [{
 		"ip": "149.56.97.143",
 		"name": "§b~ §3§lTildes §b~"
