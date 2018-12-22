@@ -190,5 +190,12 @@
 	"servers": [{
 		"ip": "149.56.97.143",
 		"name": "§b~ §3§lTildes §b~"
-	}]
+	}],
+	"splash": {
+		"background": 472642,
+		"font": 16777215,
+		"barBackground": 274748,
+		"barBorder": 13319477,
+		"bar": 13319477
+	}
 }
