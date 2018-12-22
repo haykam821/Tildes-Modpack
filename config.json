@@ -1,6 +1,6 @@
 {
 	"mods": [{
-		"fileID": 2640458,
+		"fileID": 2648622,
 		"name": "Just Enough Items",
 		"projectID": 238222,
 		"type": "forge"
@@ -10,172 +10,172 @@
 		"projectID": 32274,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2642375,
 		"name": "ConnectedTexturesMod",
 		"projectID": 267602,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2619468,
 		"name": "Chisel",
 		"projectID": 235279,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2450900,
 		"name": "Chameleon",
 		"projectID": 230497,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2642386,
 		"name": "Storage Drawers",
 		"projectID": 223852,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2650333,
 		"name": "Iron Chests",
 		"projectID": 228756,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2640753,
 		"name": "Chisels & Bits",
 		"projectID": 231095,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2650625,
 		"name": "Inventory Tweaks",
 		"projectID": 223094,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2638496,
 		"name": "McJtyLib",
 		"projectID": 233105,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2641797,
 		"name": "RFTools",
 		"projectID": 224641,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2649920,
 		"name": "AppleSkin",
 		"projectID": 248787,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2646432,
 		"name": "Actually Additions",
 		"projectID": 228404,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2564573,
 		"name": "Iron Backpacks",
 		"projectID": 227049,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2560638,
 		"name": "ReAuth",
 		"projectID": 237701,
 		"type": "forge"
 	}, {
-		"fileID": "2647237",
+		"fileID": 2649608,
 		"name": "WanionLib",
 		"projectID": 253043,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2627050,
 		"name": "UniDict",
 		"projectID": 244258,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2576264,
 		"name": "Clumps",
 		"projectID": 256717,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2483466,
 		"name": "Flat Colored Blocks",
 		"projectID": 238590,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2568751,
 		"name": "Hwyla",
 		"projectID": 253449,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2642313,
 		"name": "AutoRegLib",
 		"projectID": 250363,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2646070,
 		"name": "Quark",
 		"projectID": 243121,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2567196,
 		"name": "Compact Machines",
 		"projectID": 224218,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2518667,
 		"name": "Baubles",
 		"projectID": 227083,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2459131,
 		"name": "Actually Baubles",
 		"projectID": 273430,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2595310,
 		"name": "Neat",
 		"projectID": 238372,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2636666,
 		"name": "Ceramics",
 		"projectID": 250617,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2463272,
 		"name": "Fast Leaf Decay",
 		"projectID": 230976,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
-		"name": "Just Enough Resources (JER)",
+		"fileID": 2603567,
+		"name": "Just Enough Resources",
 		"projectID": 240630,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2463886,
 		"name": "CXLibrary",
 		"projectID": 244023,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2627678,
 		"name": "More Furnaces",
 		"projectID": 78320,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2475930,
 		"name": "Furnace on a Stick",
 		"projectID": 277056,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2568865,
 		"name": "No Recipe Book",
 		"projectID": 284904,
 		"type": "forge"
 	}, {
-		"fileID": 2639993,
+		"fileID": 2649772,
 		"name": "Carry On",
 		"projectID": 274259,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2601022,
 		"name": "Inventory Pets",
 		"projectID": 229380,
 		"type": "forge"
 	}, {
-		"fileID": "latest",
+		"fileID": 2567472,
 		"name": "Wolf Armor and Storage",
 		"projectID": 253689,
 		"type": "forge"
