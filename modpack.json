@@ -196,6 +196,9 @@
 		"ip": "149.56.97.143",
 		"name": "§b~ §3§lTildes §b~"
 	}],
+	"scripts": {
+		"start": "curl https://tildes.net/android-chrome-512x512.png -o $MODPACK_FOLDER/icon.png"
+	},
 	"splash": {
 		"background": 472642,
 		"font": 16777215,
