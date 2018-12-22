@@ -190,7 +190,8 @@
 		"format": 1
 	},
 	"move": {
-		"./config": "./config"
+		"./config": "./config",
+		"./options.txt": "./options.txt"
 	},
 	"servers": [{
 		"ip": "149.56.97.143",
