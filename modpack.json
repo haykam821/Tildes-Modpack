@@ -8,7 +8,8 @@
 		"fileID": 2640111,
 		"name": "JourneyMap",
 		"projectID": 32274,
-		"type": "curseforge"
+		"type": "curseforge",
+		"context": "client"
 	}, {
 		"fileID": 2642375,
 		"name": "ConnectedTexturesMod",
@@ -43,7 +44,8 @@
 		"fileID": 2650625,
 		"name": "Inventory Tweaks",
 		"projectID": 223094,
-		"type": "curseforge"
+		"type": "curseforge",
+		"context": "client"
 	}, {
 		"fileID": 2638496,
 		"name": "McJtyLib",
@@ -58,7 +60,8 @@
 		"fileID": 2649920,
 		"name": "AppleSkin",
 		"projectID": 248787,
-		"type": "curseforge"
+		"type": "curseforge",
+		"context": "client"
 	}, {
 		"fileID": 2646432,
 		"name": "Actually Additions",
@@ -73,7 +76,8 @@
 		"fileID": 2560638,
 		"name": "ReAuth",
 		"projectID": 237701,
-		"type": "curseforge"
+		"type": "curseforge",
+		"context": "client"
 	}, {
 		"fileID": 2649608,
 		"name": "WanionLib",
@@ -98,7 +102,8 @@
 		"fileID": 2568751,
 		"name": "Hwyla",
 		"projectID": 253449,
-		"type": "curseforge"
+		"type": "curseforge",
+		"context": "client"
 	}, {
 		"fileID": 2642313,
 		"name": "AutoRegLib",
@@ -128,7 +133,8 @@
 		"fileID": 2595310,
 		"name": "Neat",
 		"projectID": 238372,
-		"type": "curseforge"
+		"type": "curseforge",
+		"context": "client"
 	}, {
 		"fileID": 2636666,
 		"name": "Ceramics",
@@ -138,7 +144,8 @@
 		"fileID": 2463272,
 		"name": "Fast Leaf Decay",
 		"projectID": 230976,
-		"type": "curseforge"
+		"type": "curseforge",
+		"context": "server"
 	}, {
 		"fileID": 2603567,
 		"name": "Just Enough Resources",
@@ -178,7 +185,8 @@
 		"fileID": 2589773,
 		"name": "More Overlays",
 		"projectID": 243478,
-		"type": "curseforge"
+		"type": "curseforge",
+		"context": "client"
 	}],
 	"pack": {
 		"name": "Tildes",
